@@ -1,6 +1,7 @@
 ## App Plan: To-Do List
 
-- Frontend: HTML/CSS + JS
+- Frontend: HTML/CSS + JS 
+    ## HTML provides the structure of the to-do list app, defining elements like the input box, buttons, and task list;CSS styles those elements to make the app visually appealing and easy to use;and JavaScript adds interactivity, allowing users to add, delete, and mark tasks as complete dynamically.
 - Backend: Python Flask
 - Database: PostgreSQL
 
